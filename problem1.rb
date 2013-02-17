@@ -1,4 +1,4 @@
-#!/Users/siman/.rbenv/shims/ruby
+#!/Users/happy_maetsu/.rvm/rubies/ruby-1.9.3-p125/bin/ruby
 # encoding: utf-8
 
 require 'date'
