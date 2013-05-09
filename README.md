@@ -1,4 +1,6 @@
-# 西暦を和暦に変換する | Japanese Era Calendar Scheme (English follows Japanese)
+# 西暦を和暦に変換する | Japanese Era Calendar
+
+English follows Japanese.
 
 ## 問題
 
